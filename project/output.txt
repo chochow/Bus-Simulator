@@ -1,0 +1,455 @@
+/*************************
+
+         STARTING
+        SIMULATION
+*************************/
+Name:  Campus Connector EastBound
+Num stops: 8
+ID: 10
+Passengers waiting: 0
+ID: 11
+Passengers waiting: 3
+Name: Bellextraxia
+Destination: 17
+Total Wait: 0
+	Wait at Stop: 0
+	Time on bus: 0
+Name: Bellextraxia
+Destination: 17
+Total Wait: 0
+	Wait at Stop: 0
+	Time on bus: 0
+Name: Bellextraxia
+Destination: 17
+Total Wait: 0
+	Wait at Stop: 0
+	Time on bus: 0
+ID: 12
+Passengers waiting: 0
+ID: 13
+Passengers waiting: 0
+ID: 14
+Passengers waiting: 0
+ID: 15
+Passengers waiting: 0
+ID: 16
+Passengers waiting: 0
+ID: 17
+Passengers waiting: 0
+Name:  Campus Connector WestBound
+Num stops: 9
+ID: 18
+Passengers waiting: 0
+ID: 19
+Passengers waiting: 1
+Name: Bellextraxia
+Destination: 26
+Total Wait: 0
+	Wait at Stop: 0
+	Time on bus: 0
+ID: 20
+Passengers waiting: 0
+ID: 21
+Passengers waiting: 0
+ID: 22
+Passengers waiting: 0
+ID: 23
+Passengers waiting: 0
+ID: 24
+Passengers waiting: 0
+ID: 25
+Passengers waiting: 0
+ID: 26
+Passengers waiting: 0
+/*************************
+
+           BEGIN
+          UPDATING
+*************************/
+~~~~~~~~~~ The time is now 1~~~~~~~~~~
+~~~~~~~~~~ Generating new busses if needed ~~~~~~~~~~
+~~~~~~~~~ Updating busses ~~~~~~~~~
+~~~~~~~~~ Updating routes ~~~~~~~~~
+Time to generate!
+Name:  Campus Connector EastBound
+Num stops: 8
+ID: 10
+Passengers waiting: 0
+ID: 11
+Passengers waiting: 8
+Name: Bellextraxia
+Destination: 17
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+Name: Bellextraxia
+Destination: 17
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+Name: Bellextraxia
+Destination: 17
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+Name: Bellextraxia
+Destination: 17
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+Name: Bellextraxia
+Destination: 17
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+Name: Bellextraxia
+Destination: 17
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+Name: Bellextraxia
+Destination: 17
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+Name: Bellextraxia
+Destination: 17
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+ID: 12
+Passengers waiting: 0
+ID: 13
+Passengers waiting: 0
+ID: 14
+Passengers waiting: 0
+ID: 15
+Passengers waiting: 0
+ID: 16
+Passengers waiting: 0
+ID: 17
+Passengers waiting: 0
+Time to generate!
+Name:  Campus Connector WestBound
+Num stops: 9
+ID: 18
+Passengers waiting: 0
+ID: 19
+Passengers waiting: 2
+Name: Bellextraxia
+Destination: 26
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+Name: Bellextraxia
+Destination: 26
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+ID: 20
+Passengers waiting: 0
+ID: 21
+Passengers waiting: 0
+ID: 22
+Passengers waiting: 0
+ID: 23
+Passengers waiting: 0
+ID: 24
+Passengers waiting: 0
+ID: 25
+Passengers waiting: 0
+ID: 26
+Passengers waiting: 0
+~~~~~~~~~~ The time is now 2~~~~~~~~~~
+~~~~~~~~~~ Generating new busses if needed ~~~~~~~~~~
+~~~~~~~~~ Updating busses ~~~~~~~~~
+~~~~~~~~~ Updating routes ~~~~~~~~~
+Time to generate!
+Name:  Campus Connector EastBound
+Num stops: 8
+ID: 10
+Passengers waiting: 1
+Name: Bellextraxia
+Destination: 17
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+ID: 11
+Passengers waiting: 13
+Name: Bellextraxia
+Destination: 17
+Total Wait: 2
+	Wait at Stop: 2
+	Time on bus: 0
+Name: Bellextraxia
+Destination: 17
+Total Wait: 2
+	Wait at Stop: 2
+	Time on bus: 0
+Name: Bellextraxia
+Destination: 17
+Total Wait: 2
+	Wait at Stop: 2
+	Time on bus: 0
+Name: Bellextraxia
+Destination: 17
+Total Wait: 2
+	Wait at Stop: 2
+	Time on bus: 0
+Name: Bellextraxia
+Destination: 17
+Total Wait: 2
+	Wait at Stop: 2
+	Time on bus: 0
+Name: Bellextraxia
+Destination: 17
+Total Wait: 2
+	Wait at Stop: 2
+	Time on bus: 0
+Name: Bellextraxia
+Destination: 17
+Total Wait: 2
+	Wait at Stop: 2
+	Time on bus: 0
+Name: Bellextraxia
+Destination: 17
+Total Wait: 2
+	Wait at Stop: 2
+	Time on bus: 0
+Name: Bellextraxia
+Destination: 17
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+Name: Bellextraxia
+Destination: 17
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+Name: Bellextraxia
+Destination: 17
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+Name: Bellextraxia
+Destination: 17
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+Name: Bellextraxia
+Destination: 17
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+ID: 12
+Passengers waiting: 0
+ID: 13
+Passengers waiting: 0
+ID: 14
+Passengers waiting: 0
+ID: 15
+Passengers waiting: 0
+ID: 16
+Passengers waiting: 0
+ID: 17
+Passengers waiting: 0
+Time to generate!
+Name:  Campus Connector WestBound
+Num stops: 9
+ID: 18
+Passengers waiting: 0
+ID: 19
+Passengers waiting: 3
+Name: Bellextraxia
+Destination: 26
+Total Wait: 2
+	Wait at Stop: 2
+	Time on bus: 0
+Name: Bellextraxia
+Destination: 26
+Total Wait: 2
+	Wait at Stop: 2
+	Time on bus: 0
+Name: Bellextraxia
+Destination: 26
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+ID: 20
+Passengers waiting: 0
+ID: 21
+Passengers waiting: 0
+ID: 22
+Passengers waiting: 0
+ID: 23
+Passengers waiting: 0
+ID: 24
+Passengers waiting: 0
+ID: 25
+Passengers waiting: 0
+ID: 26
+Passengers waiting: 0
+~~~~~~~~~~ The time is now 3~~~~~~~~~~
+~~~~~~~~~~ Generating new busses if needed ~~~~~~~~~~
+~~~~~~~~~ Updating busses ~~~~~~~~~
+~~~~~~~~~ Updating routes ~~~~~~~~~
+Time to generate!
+Name:  Campus Connector EastBound
+Num stops: 8
+ID: 10
+Passengers waiting: 1
+Name: Bellextraxia
+Destination: 17
+Total Wait: 2
+	Wait at Stop: 2
+	Time on bus: 0
+ID: 11
+Passengers waiting: 19
+Name: Bellextraxia
+Destination: 17
+Total Wait: 3
+	Wait at Stop: 3
+	Time on bus: 0
+Name: Bellextraxia
+Destination: 17
+Total Wait: 3
+	Wait at Stop: 3
+	Time on bus: 0
+Name: Bellextraxia
+Destination: 17
+Total Wait: 3
+	Wait at Stop: 3
+	Time on bus: 0
+Name: Bellextraxia
+Destination: 17
+Total Wait: 3
+	Wait at Stop: 3
+	Time on bus: 0
+Name: Bellextraxia
+Destination: 17
+Total Wait: 3
+	Wait at Stop: 3
+	Time on bus: 0
+Name: Bellextraxia
+Destination: 17
+Total Wait: 3
+	Wait at Stop: 3
+	Time on bus: 0
+Name: Bellextraxia
+Destination: 17
+Total Wait: 3
+	Wait at Stop: 3
+	Time on bus: 0
+Name: Bellextraxia
+Destination: 17
+Total Wait: 3
+	Wait at Stop: 3
+	Time on bus: 0
+Name: Bellextraxia
+Destination: 17
+Total Wait: 2
+	Wait at Stop: 2
+	Time on bus: 0
+Name: Bellextraxia
+Destination: 17
+Total Wait: 2
+	Wait at Stop: 2
+	Time on bus: 0
+Name: Bellextraxia
+Destination: 17
+Total Wait: 2
+	Wait at Stop: 2
+	Time on bus: 0
+Name: Bellextraxia
+Destination: 17
+Total Wait: 2
+	Wait at Stop: 2
+	Time on bus: 0
+Name: Bellextraxia
+Destination: 17
+Total Wait: 2
+	Wait at Stop: 2
+	Time on bus: 0
+Name: Bellextraxia
+Destination: 17
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+Name: Bellextraxia
+Destination: 17
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+Name: Bellextraxia
+Destination: 17
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+Name: Bellextraxia
+Destination: 17
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+Name: Bellextraxia
+Destination: 17
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+Name: Bellextraxia
+Destination: 17
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+ID: 12
+Passengers waiting: 0
+ID: 13
+Passengers waiting: 0
+ID: 14
+Passengers waiting: 0
+ID: 15
+Passengers waiting: 0
+ID: 16
+Passengers waiting: 0
+ID: 17
+Passengers waiting: 0
+Time to generate!
+Name:  Campus Connector WestBound
+Num stops: 9
+ID: 18
+Passengers waiting: 0
+ID: 19
+Passengers waiting: 3
+Name: Bellextraxia
+Destination: 26
+Total Wait: 3
+	Wait at Stop: 3
+	Time on bus: 0
+Name: Bellextraxia
+Destination: 26
+Total Wait: 3
+	Wait at Stop: 3
+	Time on bus: 0
+Name: Bellextraxia
+Destination: 26
+Total Wait: 2
+	Wait at Stop: 2
+	Time on bus: 0
+ID: 20
+Passengers waiting: 0
+ID: 21
+Passengers waiting: 0
+ID: 22
+Passengers waiting: 0
+ID: 23
+Passengers waiting: 0
+ID: 24
+Passengers waiting: 0
+ID: 25
+Passengers waiting: 0
+ID: 26
+Passengers waiting: 0
+/*************************
+
+        SIMULATION
+         COMPLETE
+*************************/

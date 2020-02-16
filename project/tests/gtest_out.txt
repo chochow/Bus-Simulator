@@ -1,0 +1,5 @@
+Name: Zoe
+Destination: 33
+Total Wait: 34
+	Wait at Stop: 2
+	Time on bus: 32
